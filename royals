@@ -1,0 +1,7 @@
+DECLARE
+   -- Declare variables, cursors, constants, etc.
+BEGIN
+   -- Executable statements (SQL queries, loops, conditional logic, etc.)
+EXCEPTION
+   -- Exception handling code
+END;
